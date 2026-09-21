@@ -1,0 +1,11 @@
+# R package source code
+/R/ @clibiosis-tech/r-reviewers
+
+# Automated tests
+/tests/ @clibiosis-tech/r-reviewers
+
+# Package metadata
+/DESCRIPTION @clibiosis-tech/package-maintainers
+
+# GitHub configuration
+/.github/ @clibiosis-tech/github-admins
